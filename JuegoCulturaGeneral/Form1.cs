@@ -263,7 +263,7 @@ namespace JuegoCulturaGeneral
                         break;
                 }
             }
-            
+
         }
     }
 }
