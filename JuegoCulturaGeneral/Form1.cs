@@ -268,7 +268,7 @@ namespace JuegoCulturaGeneral
     }
 }
 
-u
+
 
 
 
