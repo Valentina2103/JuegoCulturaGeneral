@@ -269,7 +269,7 @@ namespace JuegoCulturaGeneral
 }
 
 
-co
+c
 
 
 
